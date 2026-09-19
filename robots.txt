@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maidaulawebsites.github.io/mc-sheikh/sitemap.xml
